@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsikhavi, fullstack php/react developer
-- 👀 I’m interested in devops, react, laravel, tailwind
-- 🌱 I’m bilding a SAAS product in Kenya
+- 👀 I’m interested in devops, react, laravel, tailwind to create dynamic, modern and efficient programs
+- 🌱 I like clean code & architecture 
 - 💞️ I’m looking to collaborate on web app development and internet marketing...
 - 📫 How to reach me : tsikhaviwils@gmail.com ...
 
