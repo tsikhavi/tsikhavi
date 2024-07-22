@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @tsikhavi, fullstack php/react developer
-- 👀 I’m interested in devops, react, laravel, tailwind to create dynamic, modern and efficient applications
+- 👋 Hi, I’m @tsikhavi, fullstack php/js/python devOps
+- Frameworks I have worked with - laravel, yii2, flask, reactjs, nodejs..
+- 👀 I’m interested in devops create dynamic, modern and efficient applications
 - 🌱 I like clean code & architecture 
 - 💞️ I’m looking to collaborate on web app development and internet marketing...
 - 📫 How to reach me : tsikhaviwils@gmail.com ...
